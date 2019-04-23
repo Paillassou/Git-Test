@@ -1,0 +1,22 @@
+#patate{
+  color : coral;
+  font-size: 120px;
+  font-weight: bold;
+  text-decoration: underline;
+  font-family: Georgia;
+  border: 120px outset pink;
+  padding: 60px;
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fromage{
+  color : blue;
+  font-style: italic;
+  font-family: Tahoma;
+  text-align: right;
+}
