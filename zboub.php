@@ -8,6 +8,8 @@
 </head>
 <body>
     <h1>ZBOUB</h1>
+    <?php
+    ?>
     <script src="main.js"></script>
 </body>
 </html>
