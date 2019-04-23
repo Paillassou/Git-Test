@@ -15,8 +15,10 @@ body{
 }
 
 .fromage{
+  font-size: 120px;
   color : blue;
   font-style: italic;
   font-family: Tahoma;
   text-align: right;
+  border: 120px inset red;
 }
